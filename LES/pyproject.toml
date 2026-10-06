@@ -1,0 +1,15 @@
+[project]
+name = "benchmark-evosax"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "cma>=4.4.4",
+    "coco-experiment>=2.8.2",
+    "cocopp>=2.8.6",
+    "evosax>=0.2.0",
+    "jax>=0.5.0",
+    "flax>=0.10.0",
+    "dotmap",
+    "pandas",
+]
+
